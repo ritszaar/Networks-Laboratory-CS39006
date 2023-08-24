@@ -3,5 +3,5 @@
 *.exe
 **/.exe
 
-*.exe
+*.out
 **/.out
